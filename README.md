@@ -1,2 +1,4 @@
 # MIA_tasks
-MIA_tasks includes electrical  tasks of different branches hardware and software.
+##task1
+
+task1:includes implementing c/c++ program for diffrent requirments 
