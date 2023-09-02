@@ -32,7 +32,15 @@ for more info:
 [circuit basics](https://www.youtube.com/watch?v=EbIcLHLZGbk)
 
 ## Task3_Steal_Shrink_Ray_Gun:
-TASK3.1: Signal to Engage
+TASK3.1: Signal to Engage : simulation on tinkercad using arduino and I2C communication protocol
+
+LINK for simulation project: [Signal to Engage](https://www.tinkercad.com/things/9AO958943F2)
+
+TASK3.2- Cookiebot : practicing on ultrasonic sensor and how to localize robot in known map.
+
+LINK for simulation project: [Cookiebot](https://www.tinkercad.com/things/0zyNoqkOpdO)
+
+
 
  
 
