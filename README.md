@@ -23,6 +23,14 @@ includes 2 circuit designs, one for H-bridge and other for practicing on circuit
 
 3.TASK1.3: Box of Shame : is a simple design that indicates how many batteries needed for specific volt and capacity required for specific circuit design.
 
+for more info: 
+
+[Power supply](https://www.youtube.com/watch?v=Ggx4tEU8EIE)
+
+[Diode and its applications](https://www.youtube.com/watch?v=zNWIQSJy4iw&t=377s)
+               
+[circuit basics](https://www.youtube.com/watch?v=EbIcLHLZGbk)
+
 ## Task3_Steal_Shrink_Ray_Gun:
 TASK3.1: Signal to Engage
 
