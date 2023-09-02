@@ -12,6 +12,8 @@ includes implementing c/c++ program for diffrent requirments
 
 4.TASK1.4: Kalman Missile : t takes two sensor measurements (just two arrays) and generates only one new array measurement with any averaging method, such as Kalman Filter.
 
+for more info: [c programming basics](https://www.youtube.com/watch?v=N2NlDUir4Qw&t=1325s)
+
 ## task2:
 includes 2 circuit designs, one for H-bridge and other for practicing on circuit basics,diodes and its applications, there is also last talks which depends on the power supply and capacity of batteries.
 
