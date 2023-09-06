@@ -3,7 +3,7 @@ MIA_tasks includes electrical  tasks of different branches hardware and software
 ## task6.1:
 [wokwi link:simulation ](https://wokwi.com/projects/375150491946124289)
 
-Q: 
+Q: If the Sensor is surrounded by a noisy environment, what type of filter could used ?
 
 ANSWER: noise and errors
 In the ideal word, sensors data with applied formulas would provide us precise and exact angles. The reality is different as some factors affect the sensors output.
