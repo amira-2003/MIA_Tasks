@@ -27,5 +27,12 @@ roll = 0.98 * (roll + gyroscope_y * dt) + 0.02* accelerometer_y
 
 As the data changes very rapidly we can sample for some amount of time and take the average for more precise results.
 
+ using also USING THE MPU6050’S DLPF:
+
+   " using DLPF_CFG 5 , 6 "are the best for cutoff frequency as the Bandwidth (Hz) is 10 and 5 but they have segnificant delay.
 ## task6.2:
 [wowki link: simulation](https://wokwi.com/projects/375149975368274945)
+
+
+
+
