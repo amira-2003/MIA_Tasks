@@ -1,4 +1,5 @@
-# task6.2
+# task6.2:
+[wowki link: simulation](https://wokwi.com/projects/375149975368274945)
 
 
 Q:
